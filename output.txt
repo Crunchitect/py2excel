@@ -1,0 +1,1 @@
+=LET(__out, "", LET(__z_combinator, LAMBDA(__f_y, LET(__f_g, LAMBDA(__f_x, __f_y(LAMBDA(__f_v, LET(__f_xx, __f_x(__f_x), __f_xx(__f_v))))), __f_g(__f_g))), LET(a, BITLSHIFT(2, 2), LET(b, BITRSHIFT(a, 2), LET(__out, JOIN(" ", __out, a), LET(__out, JOIN(" ", __out, b), __out))))))

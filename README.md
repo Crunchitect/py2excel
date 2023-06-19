@@ -1,5 +1,8 @@
 # Py2Excel
 
+![Formula Image](./imgs/img.png)
+![Result Image](./imgs/img_1.png)
+
 For turning `.pysx` to Excel formulas.
 If this is  not what you are looking for, Try searching [openpyxl](https://pypi.org/project/openpyxl/).
 
